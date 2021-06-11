@@ -28,3 +28,8 @@ cd build
 ./CuckooHashingSlots [testCount] [unitsLen] [slotsNum]
 ```
 
+### TODO
+
+* improve hash functions
+
+* support repeat-elements occasions
